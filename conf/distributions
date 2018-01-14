@@ -1,0 +1,7 @@
+Origin: Testcorp
+Label: Testcorp Github
+Suite: stable
+Codename: xenial
+Architectures: amd64
+Components: main
+Description: ubuntu packages from github

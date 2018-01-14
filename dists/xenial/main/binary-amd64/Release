@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Testcorp
+Label: Testcorp Github
+Architecture: amd64
+Description: ubuntu packages from github

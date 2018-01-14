@@ -1,0 +1,20 @@
+Origin: Testcorp
+Label: Testcorp Github
+Suite: stable
+Codename: xenial
+Date: Sun, 14 Jan 2018 01:20:54 UTC
+Architectures: amd64
+Components: main
+Description: ubuntu packages from github
+MD5Sum:
+ 800d50f6ddde4c70d8c5c623be5ffd39 519 main/binary-amd64/Packages
+ f07c62a8e76ea8516884f04764f3e950 358 main/binary-amd64/Packages.gz
+ 2991ea640d41925c2f020237db421e5e 133 main/binary-amd64/Release
+SHA1:
+ 1c1289f15d731939759df73f85166edec628b9f9 519 main/binary-amd64/Packages
+ df89305949edbb01218c33a0d809e7f90bbc2b34 358 main/binary-amd64/Packages.gz
+ 8e0a7b0ab45feda785a1a10476fb67401324095d 133 main/binary-amd64/Release
+SHA256:
+ 4703d50ca75c24a934457c63cb5fb93b8d3374cb303067d19df14a19653941f1 519 main/binary-amd64/Packages
+ 3a4728d36532758e09bcc6c735781ec165b2cc59cc38bb3c6c632e449acc06d1 358 main/binary-amd64/Packages.gz
+ 5af94aadd49e8334546588d98fca85ba1a2af2a7e97c4f37a1b4bbfa6dc0fda0 133 main/binary-amd64/Release

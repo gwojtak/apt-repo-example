@@ -1,0 +1,15 @@
+Package: discombobulator
+Name: Discombobulator Example
+Priority: optional
+Section: utils
+Filename: pool/main/d/discombobulator/discombobulator_1.0-1_all.deb
+Size: 1128
+SHA256: f4cdedf6423cde695fbd2ce76fb62036ac44a8793935f105902340cd559ef4f6
+SHA1: 938f861dfc4a373caa5617d20fc8ca9afb441b52
+MD5sum: 8a4c73cf248752e40e724539e070ee18
+Description: This is just an example package for goodness' sake
+Author: Greg Wojtak <greg.wojtak@gmail.com>
+Maintainer: Greg Wojtak <greg.wojtak@gmail.com>
+Version: 1.0-1
+Architecture: all
+
