@@ -2,7 +2,7 @@ Origin: Testcorp
 Label: Testcorp Github
 Suite: stable
 Codename: xenial
-Date: Sun, 14 Jan 2018 01:20:54 UTC
+Date: Sun, 14 Jan 2018 23:58:51 UTC
 Architectures: amd64
 Components: main
 Description: ubuntu packages from github
